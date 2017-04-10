@@ -8,3 +8,5 @@
 REPORT ZHELLO.
 
 write: /'Hello GIT'.
+
+write: /'Second commit'.
