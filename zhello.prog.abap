@@ -5,8 +5,8 @@
 *&
 *&
 *&---------------------------------------------------------------------*
-REPORT ZHELLO.
+REPORT zhello.
 
-write: /'Hello GIT'.
+WRITE: /'Hello GIT'.
 
-write: /'Second commit'.
+WRITE: /'Second commit'.
